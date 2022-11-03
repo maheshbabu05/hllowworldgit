@@ -2,7 +2,7 @@ package Test1;
 
 public class Test {
 	
-	String A = "Hello World MAhesh";
+	String A = "Hello World MAhesh for commit";
 	
 	
 	public void MA() {
